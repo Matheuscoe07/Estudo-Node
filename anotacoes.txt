@@ -1,0 +1,8 @@
+Para utilizar módulo de terceiros é preciso instalar
+os módulos
+
+Para instalar basta:
+1. abrir o terminal
+2. utilizar o comando de instalar o modulo
+    - geralmente é o npm install *nome do modulo*
+3. utilizar o módulo
